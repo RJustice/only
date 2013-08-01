@@ -1,0 +1,1113 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"insert",
+				"insert_id"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"false",
+				"FALSE"
+			],
+			[
+				"get_in",
+				"get_instance	CI - Assign the CodeIgniter object to a variable"
+			],
+			[
+				"load",
+				"load_model	CI - Load Model"
+			],
+			[
+				"meta",
+				"_meta_table  (variable)"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"return",
+				"return_var"
+			],
+			[
+				"backgroun",
+				"background-color:   (property)"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"_reponse",
+				"_response_txt"
+			],
+			[
+				"res",
+				"response_obj"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"tm",
+				"tmp"
+			],
+			[
+				"sh",
+				"shipping"
+			],
+			[
+				"shippin",
+				"shipping_to"
+			],
+			[
+				"ship",
+				"shipping_price"
+			],
+			[
+				"shippng",
+				"shipping_price"
+			],
+			[
+				"defin",
+				"define"
+			],
+			[
+				"padding",
+				"padding:   (property)"
+			],
+			[
+				"fetch",
+				"fetch_module	CI - Fetch Module"
+			],
+			[
+				"add_time",
+				"add_time_to"
+			],
+			[
+				"get_incl",
+				"get_included_files"
+			],
+			[
+				"_ser",
+				"_server	CI - $_SERVER"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"wholesa",
+				"wholesale_price"
+			],
+			[
+				"whol",
+				"wholesale_minnum"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"wholesal",
+				"wholesale_minnum"
+			],
+			[
+				"spen",
+				"spec_info"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"json",
+				"json_error"
+			],
+			[
+				"whole",
+				"wholesale_minnum"
+			],
+			[
+				"spec",
+				"spec_info"
+			],
+			[
+				"em",
+				"email	CI - Email Boilerplate"
+			],
+			[
+				"sa",
+				"salt"
+			],
+			[
+				"usernm",
+				"username"
+			],
+			[
+				"mi",
+				"microtime"
+			],
+			[
+				"mysql_set",
+				"mysql_select_db"
+			],
+			[
+				"load_mo",
+				"load_module	HMVC CI - Load Module Controller"
+			],
+			[
+				"welcom",
+				"welcome"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"vi",
+				"VIDEO	Tag"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"borer",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/models/user_model.php",
+			"settings":
+			{
+				"buffer_size": 6487,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/api/user.php",
+			"settings":
+			{
+				"buffer_size": 3241,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 274.0,
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"SET html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ci",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"set bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"page",
+				"Package Control: Remove Package"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: list ",
+				"Package Control: List Packages"
+			],
+			[
+				"set code",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"set codein",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"set codei",
+				"Snippet: CodeIgniter Model"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"set asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"set html asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"set sap",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"set htmlasp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"set asp ",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"SET asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"et asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"codeig",
+				"Snippet: CodeIgniter Tag"
+			],
+			[
+				"codeign",
+				"Snippet: CodeIgniter Model"
+			],
+			[
+				"set codeign",
+				"Snippet: CI - Assign the CodeIgniter object to a variable"
+			],
+			[
+				"set",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"SET",
+				"Set Syntax: XSL"
+			],
+			[
+				"SETXML",
+				"Set Syntax: XML"
+			],
+			[
+				"gist ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"set less",
+				"Set Syntax: LESS"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"setjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set:",
+				"Set Syntax: HTML"
+			],
+			[
+				"j",
+				"Snippet: jQuery.browser"
+			],
+			[
+				"gist:",
+				"Gist: Open Gist"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR86.906/fuelphp-1.6.1/fuel/packages/auth/classes/auth/group/simplegroup.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR87.015/fuelphp-1.6.1/fuel/packages/auth/classes/auth/group/ormgroup.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR87.890/fuelphp-1.6.1/fuel/packages/auth/classes/auth/group/driver.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR75.546/fuelphp-1.6.1/fuel/packages/auth/classes/auth/acl/simpleacl.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR72.015/fuelphp-1.6.1/fuel/packages/auth/classes/model/auth/permission.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR71.250/fuelphp-1.6.1/fuel/packages/auth/classes/model/auth/role.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR15.343/fuelphp-1.6.1/fuel/packages/auth/classes/model/auth/rolepermission.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR15.562/fuelphp-1.6.1/fuel/packages/auth/classes/model/auth/role.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR15.265/fuelphp-1.6.1/fuel/packages/auth/classes/model/auth/user.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR44.203/fuelphp-1.6.1/fuel/packages/auth/classes/model/auth/metadata.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR11.140/fuelphp-1.6.1/fuel/packages/auth/classes/auth.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR09.828/fuelphp-1.6.1/fuel/app/classes/controller/welcome.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR05.656/fuelphp-1.6.1/fuel/app/tasks/robots.php",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR02.781/fuelphp-1.6.1/fuel/app/bootstrap.php",
+		"/C/Documents and Settings/Administrator/桌面/goagent/local/proxy.ini",
+		"/D/www/only/application/config/config.php",
+		"/D/www/only/application/models/tables/user_table.php",
+		"/D/www/only/application/libraries/Session.php",
+		"/D/www/czmobile/uc/model/user.php",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/t.php                D%3A%5Cwww%5Ctest%5Ct.php",
+		"/D/www/test/t.php",
+		"/D/www/only/application/models/tables/usermeta_table.php",
+		"/D/www/only/application/models/tables/article_table.php",
+		"/D/www/only/application/models/tables/user_meta_table.php",
+		"/D/www/only/application/models/tables/tuser.php",
+		"/D/www/only/application/models/tables/user.php",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/www/joomla/components/com_content/models/article.php",
+		"/D/www/only/application/libraries/Curl.php",
+		"/D/www/only/application/config/database.php",
+		"/D/www/only/application/libraries/Format.php",
+		"/D/www/only/application/config/autoload.php",
+		"/D/www/only/application/models/article_model.php",
+		"/D/www/only/application/controllers/api/media.php",
+		"/D/www/only/application/models/tag_model.php",
+		"/D/www/only/application/models/template_model.php",
+		"/D/www/only/application/models/history_model.php",
+		"/D/www/only/application/controllers/api/system.php",
+		"/D/www/only/application/models/media_model.php",
+		"/D/www/only/application/models/menu_model.php",
+		"/D/www/only/application/models/category_model.php",
+		"/D/www/only/application/models/section_,odel.php",
+		"/D/www/only/application/models/system_model.php",
+		"/D/www/only/application/controllers/api/category.php",
+		"/D/www/only/application/controllers/api/article.php",
+		"/D/www/only/application/controllers/api/user.php",
+		"/D/www/only/application/controllers/api/account.php",
+		"/D/www/only/application/models/user_model.php",
+		"/D/www/only/application/models/user.php",
+		"/D/www/only/application/controllers/api/menu.php",
+		"/D/www/only/application/controllers/api/key.php",
+		"/D/www/only/application/controllers/api/tags.php",
+		"/D/www/only/application/controllers/api/tag.php",
+		"/D/www/only/application/controllers/api/example.php",
+		"/C/Documents and Settings/Administrator/桌面/article_history.sql",
+		"/D/www/only/application/controllers/welcome.php",
+		"/D/www/only/application/config/rest.php",
+		"/D/www/webservice/application/controllers/test/test_user.php",
+		"/D/www/only/application/libraries/REST_Controller.php",
+		"/D/www/only/application/libraries/Rest.php",
+		"/D/www/only/application/core/MY_Loader.php",
+		"/D/www/only/sparks/example-spark/1.0.0/config/autoload.php",
+		"/D/www/only/sparks/example-spark/1.0.0/libraries/example_spark.php",
+		"/D/www/webservice/application/libraries/Rest.php",
+		"/D/www/webservice/application/libraries/Curl.php",
+		"/D/www/webservice/application/libraries/REST_Controller.php",
+		"/E/GitHub/codeigniter-restclient/libraries/Rest.php",
+		"/D/www/webservice/application/config/autoload.php",
+		"/D/www/webservice/application/config/config.php",
+		"/D/www/webservice/application/config/rest.php",
+		"/D/www/webservice/application/spark.info",
+		"/D/www/only/only.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                \n",
+			"function rand",
+			"rand()",
+			"rand",
+			"spark",
+			"wp_install",
+			"get_user_by_login",
+			"composer",
+			"1",
+			"error_rep",
+			"hover",
+			"click",
+			"yd-l-wrapper",
+			"index-i-slider",
+			"app_bz",
+			"detect",
+			"5.jpg",
+			"5",
+			"7",
+			"b7",
+			"slow",
+			"slow_pl",
+			"auto",
+			"autolo",
+			"rest",
+			"已签到",
+			"sign",
+			"br",
+			"testlink",
+			"qq_bind",
+			"client_id",
+			"client",
+			"www.mobilefans.cn",
+			"www.mobilefans.cn\nobilefans.cn",
+			"www.mobilefans.cn\nwww.mobilefans.cn",
+			"www.mobilefans.cn/download\nwww.mobilefans.cn",
+			"www.mobilefans.cn/download\nwww.mobilefans.cn/coupon",
+			"www.mobilefans.cn/download\nwww.mobilefans.cn/coupon/",
+			"www.mobilefans.cn/news2/",
+			"set_directory",
+			"fetch_directory",
+			"fetch_class",
+			"Ticket",
+			"www.mobilefans.cn/",
+			"www.mobilefans.cn/news2/",
+			"array_unshift",
+			",\n",
+			"www.mobilefans.cn/news2",
+			"www.mobilefans.cn/news",
+			"www.mobilefans.cn/download",
+			"mobilefans.cn",
+			"www.mobilefans.cn",
+			"www.mobilefans.cn/download",
+			"www.mobilefans.cn/news2/",
+			"template",
+			"install",
+			"market",
+			"sendMessage",
+			"loadCache",
+			"mar",
+			"mark",
+			"app",
+			"app.9",
+			"网狐",
+			"wind",
+			"今日热门",
+			"shou",
+			"四个",
+			"gameHotBg",
+			"8040",
+			"80",
+			"8041",
+			"style",
+			"/images/down.gif",
+			"下载",
+			"花",
+			"80",
+			"8041",
+			"8040",
+			"/img/403.gif",
+			"menu",
+			"sf-",
+			"header",
+			"up",
+			"down",
+			"click",
+			"hover",
+			"fff",
+			"li a:hover",
+			"119.84.74.16:8041",
+			"order_exoi",
+			"get_order",
+			"order_export",
+			"menu",
+			"dir",
+			"state",
+			"stat",
+			"status",
+			"_get_orders",
+			"'});",
+			"wholesale",
+			"24",
+			"css",
+			"game",
+			"game-ser",
+			"em",
+			"option_box",
+			"right",
+			"hack",
+			"module_special",
+			".user",
+			"left",
+			"module_common",
+			"content",
+			"nav1",
+			"nav",
+			"filename",
+			"template",
+			"\"/></",
+			"hhttp",
+			"a href",
+			"60px",
+			"wholesale",
+			"wholesale_minnum",
+			"wholesale",
+			"wholesale_minnum",
+			"wholesale",
+			"wholesale_minnum"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"coupon.mobilefans.cn/",
+			"news.mobilefans.cn/",
+			"download.mobilefans.cn",
+			"download.mobilefans.cn/",
+			"news.mobilefans.cn/",
+			"version2",
+			"admin1i.game.mobilefans.cn"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/models/user_model.php",
+					"settings":
+					{
+						"buffer_size": 6487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5661,
+								5661
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"is_xml": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2962.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/controllers/api/user.php",
+					"settings":
+					{
+						"buffer_size": 3241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1163,
+								1163
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"is_xml": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 106.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"connect.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
