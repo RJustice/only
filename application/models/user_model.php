@@ -10,12 +10,13 @@ class User_model extends CI_Model {
     public $_meta_table = '';
     public $_result = '';
     public $_return = '';
-    protected $normal_key = array('username','password','email','nickname','state','group_id','avatar');
+    protected $normal_key = array('id','username','password','email','nickname','state','group_id','avatar');
     protected $meta_key = array('first_name','last_name','url','gender','birthday','user_setting');
     public $_data = '';
     protected $_err = '';
     protected $_user = array();
     protected $_user_meta = array();
+    protected $_extra_meta = array();
 
     public function __construct()
     {
@@ -25,23 +26,25 @@ class User_model extends CI_Model {
         $this->_err = array('state'=>FALSE);
     }
 
+    //init input data.
     function init($data){
         foreach($this->normal_key as $key){
             if(array_key_exists($key, $data)){
                 $this->_user[$key] = $data[$key];
+                unset($data[$key]);
             }
         }
         foreach ($this->meta_key as $key) {
             if(array_key_exists($key, $data)){
                 $this->_user_meta[$key] = $data[$key];
+                unset($data[$key]);
             }
         }
-        $this->_return = $this->_user;
+        $this->_extra_meta = $data;
+        //$this->_return = $this->_user;
     }
 
-    function login($data){
-
-    }
+    //get user information by user_id 
 
     function get_user_by_id($uid = 0,$return_var = NULL){
         if($uid == 0){

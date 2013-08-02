@@ -30,6 +30,7 @@ class User extends REST_Controller {
                 'email'=>$this->post('email', TRUE),
                 'password'=>$this->post('password', TRUE),
             );
+        $data['login'] = TRUE;
         if(empty($data['username']) and empty($data['email'])){
             $this->response(NULL,400);
         }
@@ -39,7 +40,14 @@ class User extends REST_Controller {
         $this->user_model->login();
         $err = $this->user_model->get_err();
         if($err['state'] === FLASE){
-            $this->response($this->user_model->get_response(),200);
+            $tmpuser = $this->user_model->get_response();
+            if(md5(strtolower($data['password']).$tmpuser['salt']) == $tmpuser['password']){
+                $array = array(
+                        
+                    );
+                $this->session->set_userdata( $array );
+            }
+            //$this->response($this->user_model->get_response(),200);
         }else{
             $this->response($this->user_model->get_err(),404);
         }
@@ -57,10 +65,6 @@ class User extends REST_Controller {
         if($err['state'] === FALSE){
 
         }
-    }
-
-    function userinfo_get(){
-
     }
 
     function new_post(){
